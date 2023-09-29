@@ -1,0 +1,30 @@
+span{
+    margin-left: 20px;
+    background-color: brown;
+    color: white;
+
+}
+#tour{
+    background-color: rgb(139, 135, 130);
+    margin-left: 70px;
+    margin-right: 70px;
+    border-radius: 5px;
+    color: white;
+
+
+}
+#my-tour{
+    text-align: left;
+}
+
+#ticket{
+    color: white;
+}
+
+#date{
+    background-color: grey;
+}
+
+#book{
+    color: white;
+}

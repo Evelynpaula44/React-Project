@@ -1,0 +1,37 @@
+.foot{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    letter-spacing: 0.5rem;
+}
+
+
+.foot .bi-facebook{
+    color: grey;
+}
+
+
+.foot .bi-twitter{
+    color: grey;
+}
+
+
+.foot .bi-instagram{
+    color: grey;
+}
+
+
+.foot .bi-linkedin{
+    color: grey;
+}
+
+
+.foot .bi-whatsapp{
+    color: grey;
+}
+
+
+.foot .bi-envelope{
+    color: grey;
+}

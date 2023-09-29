@@ -1,0 +1,9 @@
+#message{
+    width: 85%;
+    margin: 10px;
+    padding: 10px;
+}
+
+#send{
+    float: end;
+}
